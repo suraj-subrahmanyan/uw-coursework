@@ -1,4 +1,4 @@
-public class Main {
+public class solution1 {
     public static void main(String[] args) {
         System.out.println(f(0));
         System.out.println(g(-1));
